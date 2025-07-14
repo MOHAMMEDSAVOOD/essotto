@@ -7,5 +7,5 @@ chicken biriryani
 # price 
 500
 
-# roooms
+# roomss
 standrad
