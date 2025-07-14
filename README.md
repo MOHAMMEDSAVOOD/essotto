@@ -6,3 +6,6 @@ chicken biriryani
 
 # price 
 500
+
+# roooms
+standrad
